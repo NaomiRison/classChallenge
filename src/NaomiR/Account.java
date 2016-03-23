@@ -11,7 +11,7 @@ shortcut to includes cliking code, select generate, setters and getters and sele
 the field(variable name).
 
 this program allows the customer to deposit funds, incrementing
- Also  allows customer to withdraw funds this should deduct from funds. customer is not allowed to withdrawal if it results to insufficent funds ( 0 dollars)
+ Also  allows customer to withdraw funds this should deduct from funds. customer is not allowed to withdrawal if it results to insufficient funds ( 0 dollars)
 have prints outs of 2 methods
  */
     private  String accountnum;
